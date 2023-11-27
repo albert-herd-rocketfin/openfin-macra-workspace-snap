@@ -28,7 +28,7 @@
 		"manifestType": "view",
 		"icons": [
 			{
-				"src": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/manifest.fin.jsoncommon/images/icon-blue.png"
+				"src": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/common/images/icon-blue.png"
 			}
 		],
 		"contactEmail": "contact@example.com",

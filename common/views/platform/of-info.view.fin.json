@@ -1,8 +1,8 @@
 {
-	"url": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/manifest.fin.jsoncommon/views/platform/of-info/index.html",
+	"url": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/common/views/platform/of-info/index.html",
 	"preloadScripts": [
 		{
-			"url": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/manifest.fin.jsoncommon/style/style-changed-preload.js"
+			"url": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/common/style/style-changed-preload.js"
 		}
 	]
 }
