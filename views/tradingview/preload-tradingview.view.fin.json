@@ -1,0 +1,12 @@
+{
+	"url": "https://www.tradingview.com/chart/?symbol=AAPL",
+	"fdc3InteropApi": "1.2",
+	"interop": {
+		"currentContextGroup": "green"
+	},
+	"preloadScripts": [
+		{
+			"url": "https://rocketfin.github.io/openfin-macra-workspace/views/tradingview/preload-tradingview.js"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"windows": [
+		{
+			"defaultHeight": 900,
+			"defaultLeft": 50,
+			"defaultTop": 50,
+			"defaultWidth": 1400,
+			"layout": {
+				"content": [
+					{
+						"type": "component",
+						"componentName": "view",
+						"componentState": {											
+							"url": "http://rf-macra.s3-website.eu-west-2.amazonaws.com",
+							"fdc3InteropApi": "1.2",
+							"interop": {
+								"currentContextGroup": "green"
+							},
+							"componentName": "view"
+						}
+					}
+				]
+			}
+		}
+	]
+}

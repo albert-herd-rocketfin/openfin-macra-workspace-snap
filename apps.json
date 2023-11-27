@@ -1,0 +1,48 @@
+[
+    {
+        "appId": "rocketfin-macra-demo",
+        "name": "rocketfin-macra-demo",
+        "title": "RocketFin Macra Application",
+        "description": "This application is a demo of the RocketFin Macra Application",
+        "manifest": "https://rocketfin.github.io/openfin-macra-workspace/views/rocketfin-macra-app-view.json",
+        "manifestType": "snapshot",
+        "contactEmail": "albert.herd@rocketfin.co",
+        "supportEmail": "albert.herd@rocketfin.co",
+        "publisher": "RocketFin",
+        "tags": ["rocketfin"],
+        "intents": [
+            {
+                "name": "ViewChart",
+                "displayName": "View Chart",
+                "contexts": ["fdc3.instrument", "fdc3.instrumentList", "fdc3.portfolio", "fdc3.position"],
+                "customConfig": {}
+            }
+        ]
+    },
+    {
+		"appId": "preload-tradingview-view",
+		"name": "preload-tradingview-view",
+		"title": "Trading View",
+		"description": "This is an example of a third-party site that is listening for contextual fdc3 messages and using the passed ticker to update itself through the use of preload scripts.",
+		"manifest": "https://rocketfin.github.io/openfin-macra-workspace/views/tradingview/preload-tradingview.view.fin.json",
+		"manifestType": "view",
+		"icons": [
+			{
+				"src": "http://localhost:8080/common/images/icon-blue.png"
+			}
+		],
+		"contactEmail": "contact@example.com",
+		"supportEmail": "support@example.com",
+		"publisher": "OpenFin",
+        "intents": [
+            {
+                "name": "ViewChart",
+                "displayName": "View Chart",
+                "contexts": ["fdc3.instrument", "fdc3.instrumentList", "fdc3.portfolio", "fdc3.position"],
+                "customConfig": {}
+            }
+        ],
+		"images": [],
+		"tags": ["view", "fdc3", "preload"]
+	}
+]
