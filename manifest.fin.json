@@ -74,6 +74,12 @@
 					"tooltip": "RocketFin Macra App",
 					"iconUrl": "https://albert-herd-rocketfin.github.io/openfin-macra-workspace-snap/macra-logo.ico",
 					"tags": ["rocketfin"]
+				},
+				{
+					"display": "individual",
+					"tooltip": "RocketFin Macra 3Forge App",
+					"iconUrl": "http://52.59.172.247:33332/rsc/favicon.ico",
+					"tags": ["3forge"]
 				}
 			]
 		},

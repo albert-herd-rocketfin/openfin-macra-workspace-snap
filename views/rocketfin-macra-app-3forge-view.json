@@ -1,17 +1,17 @@
 {
 	"windows": [
 		{
-			"defaultHeight": 1200,
+			"defaultHeight": 800,
 			"defaultLeft": 50,
 			"defaultTop": 50,
-			"defaultWidth": 2000,
+			"defaultWidth": 950,
 			"layout": {
 				"content": [
 					{
 						"type": "component",
 						"componentName": "view",
 						"componentState": {											
-							"url": "http://rf-macra.s3-website.eu-west-2.amazonaws.com",
+							"url": "http://52.59.172.247:33332/3forge",
 							"fdc3InteropApi": "1.2",
 							"interop": {
 								"currentContextGroup": "green"
